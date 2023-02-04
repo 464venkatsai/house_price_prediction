@@ -1,0 +1,45 @@
+
+ model : LinearRegression
+ before_cross_validation : 4.217481617985452 
+ Mean : 4.318838211798875 
+ Standard devation : 1.223965712541751
+
+ model : RandomForestRegressor
+ before_cross_validation : 1.2266235997426203 
+ Mean : 3.3358485669957374 
+ Standard devation : 0.6310618413314801
+
+ model : DecisionTreeRegressor
+ before_cross_validation : 0.0 
+ Mean : 4.094636622945075 
+ Standard devation : 0.8615345493336225
+
+ model : LinearRegression
+ before_cross_validation : 4.217481617985452 
+ Mean : 4.318838211798875 
+ Standard devation : 1.223965712541751
+
+ model : RandomForestRegressor
+ before_cross_validation : 1.2548980748323029 
+ Mean : 3.3703347793012917 
+ Standard devation : 0.7540705383679632
+
+ model : DecisionTreeRegressor
+ before_cross_validation : 0.0 
+ Mean : 4.197272548657766 
+ Standard devation : 0.9170429577889333
+
+ model : LinearRegression
+ before_cross_validation : 4.217481617985452 
+ Mean : 4.318838211798875 
+ Standard devation : 1.223965712541751
+
+ model : RandomForestRegressor
+ before_cross_validation : 1.2218037206045687 
+ Mean : 3.3285232439331685 
+ Standard devation : 0.7872036856534477
+
+ model : DecisionTreeRegressor
+ before_cross_validation : 0.0 
+ Mean : 4.281397105807992 
+ Standard devation : 0.8039671713589118
